@@ -1,0 +1,13 @@
+/home/alejandro/Desktop/Practicas/C#/PremiosOscar/bin/Debug/netcoreapp3.1/PremiosOscar
+/home/alejandro/Desktop/Practicas/C#/PremiosOscar/bin/Debug/netcoreapp3.1/PremiosOscar.deps.json
+/home/alejandro/Desktop/Practicas/C#/PremiosOscar/bin/Debug/netcoreapp3.1/PremiosOscar.runtimeconfig.json
+/home/alejandro/Desktop/Practicas/C#/PremiosOscar/bin/Debug/netcoreapp3.1/PremiosOscar.runtimeconfig.dev.json
+/home/alejandro/Desktop/Practicas/C#/PremiosOscar/bin/Debug/netcoreapp3.1/PremiosOscar.dll
+/home/alejandro/Desktop/Practicas/C#/PremiosOscar/bin/Debug/netcoreapp3.1/PremiosOscar.pdb
+/home/alejandro/Desktop/Practicas/C#/PremiosOscar/obj/Debug/netcoreapp3.1/PremiosOscar.csprojAssemblyReference.cache
+/home/alejandro/Desktop/Practicas/C#/PremiosOscar/obj/Debug/netcoreapp3.1/PremiosOscar.AssemblyInfoInputs.cache
+/home/alejandro/Desktop/Practicas/C#/PremiosOscar/obj/Debug/netcoreapp3.1/PremiosOscar.AssemblyInfo.cs
+/home/alejandro/Desktop/Practicas/C#/PremiosOscar/obj/Debug/netcoreapp3.1/PremiosOscar.csproj.CoreCompileInputs.cache
+/home/alejandro/Desktop/Practicas/C#/PremiosOscar/obj/Debug/netcoreapp3.1/PremiosOscar.dll
+/home/alejandro/Desktop/Practicas/C#/PremiosOscar/obj/Debug/netcoreapp3.1/PremiosOscar.pdb
+/home/alejandro/Desktop/Practicas/C#/PremiosOscar/obj/Debug/netcoreapp3.1/PremiosOscar.genruntimeconfig.cache
